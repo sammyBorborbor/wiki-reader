@@ -1,4 +1,5 @@
 # Wiki Reader
+![Unit tests](https://github.com/sammyBorborbor/wiki-reader/actions/workflows/tests.yml/badge.svg)
 
 A small Android app for searching Wikipedia and reading article summaries, built with Kotlin and Jetpack Compose.
 
@@ -46,3 +47,5 @@ Kotlin, Jetpack Compose, Material 3, Hilt, Retrofit, OkHttp, kotlinx.serializati
 ## License
 
 MIT
+
+Stop Claude
